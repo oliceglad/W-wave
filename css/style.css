@@ -431,7 +431,7 @@ section {
   padding-bottom: 30px;
   margin-top: 30px;
   width: 100%;
-  background-image: url("/img/background-image-modal1.svg");
+  background-image: url("..//img/background-image-modal1.svg");
   background-position: bottom;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -1521,7 +1521,7 @@ section {
   width: 13px;
   height: 8px;
   border-style: none;
-  background-image: url('/img/strel.svg');
+  background-image: url('..//img/strel.svg');
   background-repeat: no-repeat;
   transition-property: transform, background-image;
   transition-duration: .3s;
@@ -2608,7 +2608,7 @@ section {
 }
 
 .buy__content__div {
-  background-image: url("/img/vector-1.svg");
+  background-image: url("..//img/vector-1.svg");
   background-repeat: no-repeat;
 }
 
@@ -2764,7 +2764,7 @@ section {
 }
 
 .about__up {
-  background-image: url("/img/frame-about.svg");
+  background-image: url("..//img/frame-about.svg");
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -2961,7 +2961,7 @@ section {
 }
 
 .about__form__checkbox:checked+label::before {
-  background-image: url('/img/checked.svg');
+  background-image: url('..//img/checked.svg');
   background-repeat: no-repeat;
   background-position: center;
   color: #97EE3F;
@@ -2971,7 +2971,7 @@ section {
 @media (max-width: 1128px) {
 
   .about__up {
-    background-image: url("/img/frame-about-1024.svg");
+    background-image: url("..//img/frame-about-1024.svg");
   }
 
   .about__text {
@@ -3230,7 +3230,7 @@ section {
 }
 
 .footer__down {
-  background-image: url("/img/footer-vector.svg");
+  background-image: url("..//img/footer-vector.svg");
   background-repeat: no-repeat;
 }
 
